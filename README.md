@@ -1,4 +1,4 @@
-# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+# Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
@@ -38,8 +38,8 @@ If the output is 1, then the led glows.
 ```
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: Mohanish K
-RegisterNumber: 212222100028
+Developed by: Anandhamoorthy.k
+RegisterNumber:  212222100004
 Half adder program:
 module HalfAdder(A,B,sum,carry);
 input A,B;
